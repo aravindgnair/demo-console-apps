@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DropboxApiClient", "DropboxApiClient\DropboxApiClient.csproj", "{40D27675-6497-47C8-9260-03136EE06D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripeClient", "StripeClient\StripeClient.csproj", "{536DA483-660D-47F5-923C-83F4A4A16E5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StripeApiClient", "StripeClient\StripeApiClient.csproj", "{536DA483-660D-47F5-923C-83F4A4A16E5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
