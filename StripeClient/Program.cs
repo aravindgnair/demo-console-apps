@@ -4,7 +4,7 @@ namespace StripeApiClient;
 
 internal class Program
 {
-    private const string ApiKey = "sk_test_51PFHFuSEKxiNGr7ukue9H13dzIuN1Sl8kmBcqdJ39kk7utau5FmnFJtiJMSWf64kyafqKJ0XYPpcpX8D67KoPKcR00DU1YCy9C";
+    private const string ApiKey = "";
     private const string CustomerEmail = "alice@tailspin.com";
 
     static async Task Main(string[] args)
